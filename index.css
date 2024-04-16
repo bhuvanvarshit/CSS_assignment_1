@@ -1,0 +1,206 @@
+.box{
+    background-color:#3bab6e;
+    height:450px;
+    width:600px;
+    margin-left:400px;
+    border-radius: 20px;
+}
+
+.text-section h2{
+    padding-top: 60px;
+    margin-left: 60px;
+    font-family: sans-serif;
+    font-size:40px;
+
+}
+.text-section p{
+    margin-top: 20px;
+    margin-left: 60px;
+    font-size: 15px;
+    font-family:sans-serif;
+}
+.text-section h4{
+  background-color: white;
+  width: 180px;
+  height:40px;
+  border-radius:30px;
+  text-align:center;
+  margin-left:50px;
+  padding-top:15px;
+  
+}
+.profile-section{
+    border:2px solid black;
+    height:360px;
+    width:40%;
+    border-radius:10px;
+    margin-top:60px;
+    margin-left:400px;
+    border-color:#a9aeae;
+}
+.profile-section h2{
+    font-family: sans-serif;
+    font-size:30px;
+    margin-left:50px;
+    font-weight:200;
+    margin-top:30px;
+}
+.profile-section h3{
+    font-size: 24px;
+    font-weight:500;
+    opacity: 0.7;
+    margin-left:50px;
+    font-family: sans-serif;
+}
+.image-section .profile{
+    width:105px;
+    height:100px;
+    border-radius:90px;
+    margin-left:80px;
+    margin-top:10px;
+}
+
+.image-section .dog{
+    width:105px;
+    height:100px;
+    border-radius:90px;
+    margin-left: 100px; 
+}
+.item-box{
+   border-top:1px solid;
+   margin-top:15px;
+   border-color:#a9aeae;
+}
+.item-box h4{
+    color:#003eff;
+    margin-left:100px;
+    font-size:20px;
+    margin-top:15px;
+    opacity:0.7;
+    font-family: sans-serif;
+}
+.features-box{
+    border:2px solid black;
+    height:300px;
+    width:590px;
+    margin-top:60px;
+    margin-left:400px;
+    border-radius:5px;
+    border-bottom:0px;
+    border-color:#a9aeae;
+}
+.photo-section .friends{
+    height:300px;
+    width:590px;
+    border-radius: 10px;
+}
+.text-item{
+    border:2px soild black;
+    height:550px;
+    width:590px;
+    border-radius:5px;
+    border:1px solid;
+    border-top:15px;
+    border-color:#a9aeae;
+}
+.text-item h3{
+    margin-left:80px;
+    font-size:21px;
+    font-weight:500;
+    font-family:sans-serif;
+    opacity:0.6;
+
+}
+.text-item h2{
+    font-family: sans-serif;
+    font-weight:400;
+    font-size:40px;
+    margin-left:40px;
+}
+.text-item h4{
+    font-size:28px;
+    position: relative;
+    font-weight:300;
+    font-family:sans-serif;
+    opacity:0.7;
+    padding:20px;
+    line-height: 34px;
+    margin-left:16px;
+    bottom:33px;
+}
+.padlock{
+    height:30px;
+    width:29px;
+    opacity:0.5;
+    position:relative;
+    top:49px;
+    left:40px;
+}
+.text-item .details{
+    border:2px solid black;
+    height:40px;
+    width:180px;
+    position:relative;
+    left:20px;
+    margin-top:2px;
+    padding-top:10px;
+    margin-left:52px;
+    color:#062eef;
+    text-align:center;
+    font-size: 24px;
+    font-weight:600;
+    border-radius:10px;
+    border-color:#a9aeae;
+}
+.login-section{
+    border:1px solid black;
+    height:400px;
+    width:350px;
+    margin-top:600px;
+    margin-left:500px;
+    text-align: center;
+}
+.email{
+    margin-left:-20px;
+    
+}
+
+.password{
+    margin-top:20px;
+}
+
+.visible-icon{
+    height:20px;
+    width:20px;
+    position:relative;
+    margin-top:2px;
+    left:-27px;
+    top:6px;
+}
+.btn{
+    margin:10px 35px;
+    font-size:16px;
+    color:white;
+    background-color: black;
+    padding:10px 20px;
+    border-radius:90px;
+}
+.footer-line-1{
+    padding: 0px 80px;
+    font-size: 16px;
+}
+.footer-line-2{
+    padding: 0px 16px;
+    font-size: smaller;
+}
+.footer-line-1-a{
+    color:#a59b9b;
+    text-decoration: 1px solid underline;
+}
+.footer-line-2-a{
+    color:#a59b9b;
+}
+.footer{
+    text-align: center;
+    color:#bebaba;
+}
